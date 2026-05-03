@@ -1,0 +1,5 @@
+venv/
+.env
+processed_emails.txt
+__pycache__/
+*.pyc
