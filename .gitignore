@@ -1,5 +1,6 @@
 venv/
 .env
-processed_emails.txt
+generate_reqs.bat
+setup_venv.bat  
 __pycache__/
 *.pyc
